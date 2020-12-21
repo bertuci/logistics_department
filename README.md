@@ -21,8 +21,7 @@ Live loads are the most expensive to transport, then come dangerous products and
 To solve this problem we will use genetic algorithms and shainy to create an solution
 
 
-# 
-DEMONSTRATING THE SOLUTION
+# DEMONSTRATING THE SOLUTION
 
 This is the first screen where the user will load the table with the loads
 ![Screenshot_73](https://user-images.githubusercontent.com/55574172/102760570-77229100-4354-11eb-8fe7-0ff2d01bd3af.png)
