@@ -7,7 +7,7 @@
 # UNDERSTANDING THE CUSTOMER'S PROBLEM
 
 
-The tropical airline uses the hold of its planes to transport cargo and optimize the company's profit from cargo, the person in charge of the sector approached us to create an application to solve this problem.
+The tropical airline uses the hold of its planes to transport cargo and optimize the company's profit from cargo, the person in charge of the sector approached us to create an solution to solve this problem.
 
 The cargo needs to be optimized to get the maximum profit possible on a trip.
 so far it seems easy, doesn't it?
@@ -18,10 +18,11 @@ Live loads are the most expensive to transport, then come dangerous products and
 
 ## How to solve
 
-To solve this problem we will use genetic algorithms and shainy to create an application
+To solve this problem we will use genetic algorithms and shainy to create an solution
 
 
-# DEMONSTRATING THE APPLICATION
+# 
+DEMONSTRATING THE SOLUTION
 
 This is the first screen where the user will load the table with the loads
 ![Screenshot_73](https://user-images.githubusercontent.com/55574172/102760570-77229100-4354-11eb-8fe7-0ff2d01bd3af.png)
