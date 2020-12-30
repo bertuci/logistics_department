@@ -20,6 +20,10 @@ Live loads are the most expensive to transport, then come dangerous products and
 
 To solve this problem we will use genetic algorithms and shainy to create an solution
 
+# HOW TO USE
+
+To use, just have a CSV file with the same structure as the file located in the 'DATA' folder, it contains 4 columns which are: ID, WEIGHT, VALUE AND VOLUME. then just load the file, click on load totals then go to the processing tab, choose the desired parameters and click on calculate totals.
+
 
 # DEMONSTRATING THE SOLUTION
 
@@ -42,6 +46,4 @@ After choosing all the options and clicking on process, the application shows wh
 ![Screenshot_78](https://user-images.githubusercontent.com/55574172/102761806-2ca21400-4356-11eb-8c7b-9fa311776ace.png)
 
 
-# HOW TO USE
 
-To use, just have a CSV file with the same structure as the file located in the 'DATA' folder, it contains 4 columns which are: ID, WEIGHT, VALUE AND VOLUME. then just load the file, click on load totals then go to the processing tab, choose the desired parameters and click on calculate totals.
